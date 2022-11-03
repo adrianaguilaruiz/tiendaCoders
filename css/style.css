@@ -1,0 +1,22 @@
+* {
+    font-family: 'Lexend', sans-serif;
+}
+
+.colorButton {
+    background-color: #008037;
+    border-color: #008037;
+}
+
+.colorButton:hover {
+    background-color: #008037;
+    border-color: #008037;
+}
+
+/*Estos son los botones del slider de la página principal*/
+.carousel-control-prev {
+    color: #008037
+}
+
+.carousel-control-next {
+    color: #008037
+}
