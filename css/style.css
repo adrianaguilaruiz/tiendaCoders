@@ -2,21 +2,47 @@
     font-family: 'Lexend', sans-serif;
 }
 
-.colorButton {
-    background-color: #008037;
-    border-color: #008037;
+.containerSectionCard {
+    background-color: blueviolet;
 }
 
-.colorButton:hover {
-    background-color: #008037;
-    border-color: #008037;
+.containerCard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-width: 0px !important;
+    border-color: none !important;
+    border-radius: 0rem !important;
+    /*border-color: none;*/
+    background-color: yellow;
+}
+
+.cardBody {
+    border-color: white;
+}
+
+.colorButton {
+    background-color: #008037 !important;
+    border-color: #008037 !important;
 }
 
 /*Estos son los botones del slider de la página principal*/
-.carousel-control-prev {
-    color: #008037
+.containerCarousel {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.buttonPrev {
+    border-bottom: #008037 !important;
 }
 
 .carousel-control-next {
     color: #008037
+}
+
+.containerSlide {
+    background-color: blue;
 }
