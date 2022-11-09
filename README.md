@@ -47,7 +47,8 @@ Agile with Scrum in mob programming mode
 
 ## NEXT STEPS:
 
-??????????
+- Include a slider on the home page
+- Add background image
 
 ## HOW TO INSTALL THIS PROJECT:
 
