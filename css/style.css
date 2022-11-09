@@ -10,7 +10,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: right;
     border-width: 0px !important;
     border-color: none !important;
     border-radius: 0rem !important;
