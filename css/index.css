@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    padding: 20px;
+}
+.imageBlackFriday{
+    text-align: center;
+    padding: 20px;
+}
+.offer{
+    text-align: center;
+    padding: 20px;
+}
+.button{
+    text-align: center;
+    color: #008037;
+    border-color: #008037;
+    background-color: #008037;
+    color: white;
+    padding: 15px 25px;
+}
+.imagesSlide{
+    text-align: center;
+}
