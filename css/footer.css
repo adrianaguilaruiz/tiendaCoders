@@ -1,0 +1,18 @@
+p{
+    color: #008037;
+    font-size: 12px;
+}
+.lineFooter{
+    border-color: #008037;
+/*     border-width: 20px;
+ */}
+
+.containerFooter{
+display: flex;
+}
+.copyright{
+    text-align: left;
+}
+.imagesPay{
+    text-align: right;
+}
