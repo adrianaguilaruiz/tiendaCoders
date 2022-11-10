@@ -47,9 +47,9 @@ Agile with Scrum in mob programming mode
 
 ## NEXT STEPS:
 
+- Implement the shop with more products and functions
+- User story
+- Add Javascript functions
+- Add corporate background image
 - Include a slider on the home page
-- Add background image
 
-## HOW TO INSTALL THIS PROJECT:
-
-??????????
