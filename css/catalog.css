@@ -31,3 +31,10 @@ h5{
     /* padding:50px; */
     text-align: center;
 }
+
+.button{
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #008037;
+    border-radius: 15% 15% 15% 15%;
+}
