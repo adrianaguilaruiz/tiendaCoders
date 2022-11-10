@@ -35,11 +35,8 @@ Create an e-commerce store with three HTML pages in mobile view to present the p
 
 ## TECHNOLOGICAL STACKS: 
 
-![stacks](https://user-images.githubusercontent.com/116546625/200364767-2185bc2f-07d8-441b-beed-33c32e5f358b.PNG)
+![stacks]<img width="215" alt="stacks" src="https://user-images.githubusercontent.com/98114939/201042826-53d29338-8d54-4ecb-85b4-f3854a348a8a.PNG">
 
-## TEST:
-
-??????
 
 ## METHODOLOGY:
 
